@@ -143,3 +143,8 @@ td.footer{width:auto; text-align:center; vertical-align:middle;}
 { 
     color: blue; 
 }
+
+.em {
+  background: lightyellow;
+  font-style: italic;
+}
