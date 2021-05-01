@@ -133,7 +133,6 @@ td.footer{width:auto; text-align:center; vertical-align:middle;}
 /* Adding new color style */
 .r 
 { 
-    font-weight: 600;
     color: red; 
 }
 .g
@@ -146,5 +145,6 @@ td.footer{width:auto; text-align:center; vertical-align:middle;}
 }
 
 .em {
+  font-weight: 600;
   font-style: italic;
 }
