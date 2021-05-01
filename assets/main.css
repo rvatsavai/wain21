@@ -145,6 +145,7 @@ td.footer{width:auto; text-align:center; vertical-align:middle;}
 }
 
 .em {
-  color: lightred;
+  color: #b2132e;
+  font-weight: lighter;
   font-style: italic;
 }
