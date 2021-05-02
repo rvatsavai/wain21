@@ -148,3 +148,8 @@ td.footer{width:auto; text-align:center; vertical-align:middle;}
   font-weight: 500;
   font-style: italic;
 }
+
+/* list style: unordered open circle */
+ul.c {
+  list-style-type: circle;
+}
