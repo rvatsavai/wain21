@@ -156,11 +156,13 @@ td.footer{width:auto; text-align:center; vertical-align:middle;}
 }
 
 .row {
+  display: flex;
   margin-left:-5px;
   margin-right:-5px;
 }
   
 .column {
+  flex: 50%;
   float: left;
   width: 50%;
   padding: 5px;
