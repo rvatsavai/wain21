@@ -170,7 +170,7 @@ td.footer{width:auto; text-align:center; vertical-align:middle;}
 .row::after {
   content: "";
   clear: both;
-  display: table;
+  display: inline-block;
 }
 
 table.m {
