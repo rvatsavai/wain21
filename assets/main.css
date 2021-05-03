@@ -173,7 +173,7 @@ td.footer{width:auto; text-align:center; vertical-align:middle;}
   display: table;
 }
 
-.mtable {
+table {
   border-collapse: collapse;
   border-spacing: 0;
   width: 100%;
@@ -190,7 +190,7 @@ tr:nth-child(even) {
 }
 
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other on screens that are smaller than 600 px */
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 1000px) {
   .column {
     width: 100%;
   }
