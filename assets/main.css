@@ -162,7 +162,7 @@ td.footer{width:auto; text-align:center; vertical-align:middle;}
 }
   
 .column {
-  flex: 50%;
+  flex: 48%;
   padding: 5px;
 }
 
@@ -177,7 +177,7 @@ table.m {
   border-collapse: collapse;
   border-spacing: 0;
   width: 100%;
-  border: 1px solid #ddd;
+  border: 0px solid #ddd;
 }
 
 th, td {
@@ -192,7 +192,7 @@ tr:nth-child(even) {
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other on screens that are smaller than 600 px */
 @media screen and (max-width: 1000px) {
   .column {
-    width: 50%;
+    width: 48%;
   }
 }
 </style>
