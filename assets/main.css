@@ -164,7 +164,6 @@ td.footer{width:auto; text-align:center; vertical-align:middle;}
 .column {
   flex: 50%;
   float: left;
-  width: 50%;
   padding: 5px;
 }
 
