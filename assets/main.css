@@ -117,8 +117,8 @@ td.flyer{white-space:nowrap; width:33%; text-align:center; vertical-align:middle
 td.sponsor img{width: 180px;}
 
 /* The Footer */
-table.footer{font-size:0.875em; margin: 72px auto 12px auto; width:333px;}
-td.footer{width:auto; text-align:center; vertical-align:middle;}
+table.footer{font-size:0.975em; margin: 72px auto 12px auto; width:333px;}
+td.footer{width:auto; text-align:center; vertical-align:middle; color: #52739e;}
 
 /* My hacky way of making the site mobile-friendly */
 @media only screen and (max-width: 1100px) {
